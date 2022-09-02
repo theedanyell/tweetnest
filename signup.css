@@ -1,0 +1,59 @@
+body{
+    background-color: white;
+}
+.back{
+    margin-left: 2rem;
+    color: black;
+    text-decoration: underline;
+    font-size: larger;
+    font-family: Kalinga;
+    font-weight: 900;
+}
+.div{
+    border: 1px solid black;
+	
+}
+input[type=text] ,
+	input[type=password]
+	{
+		width:500px;
+		padding: 15px;
+		margin: 5px 0 12px 0;
+		display: inline-block;
+		border:1px solid black;
+		background: #ffffff;
+		border-radius: 10px;
+	}
+    
+b{
+    font-family: Kalinga;
+}
+.agree{
+	font-family: Kalinga;
+	font-size: medium;
+	font-weight: 900
+}
+button{
+	background-color: white;
+	border: 1px solid black;
+	width: 150px;
+	height: 30px;
+	font-family: Kalinga;
+	font-weight: 900;
+}
+.alr{
+	color: black;
+	font-weight: bold;
+	height: 45px;
+	font-family: Kalinga;
+	font-weight: 900;
+	
+}
+#button:hover{
+	color: white;
+	background-color: black;
+}
+#container:hover{
+	color:rgb(255, 255, 255);
+	background-color:gray;
+}
